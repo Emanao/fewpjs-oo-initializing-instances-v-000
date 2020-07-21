@@ -7,8 +7,8 @@ class Dog {
 }
 class Breakfast {
   constructor(food, drink) {
-    this.name = name;
-    this.breed = breed;
+    this.food = food;
+    this.drink = drink;
   }
 }
 class Lunch {
